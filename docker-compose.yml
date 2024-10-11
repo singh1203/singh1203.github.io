@@ -1,0 +1,9 @@
+version: '3'
+services:
+  jekyll:
+    build: .          # Uses the Dockerfile
+    volumes:
+      - .:/site       # Mounts your portfolio files
+    ports:
+      - "4000:4000"   # Exposes Jekyll server
+      - "35729:35729" # For live reload

@@ -2,17 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# About Me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hi 👋 I am Saurabh. 23-year-old Software engineer from India.
 
-# Header 1
+I began my coding journey with React and JavaScript and have since immersed myself in a range of technologies and frameworks. 
+My approach to development is centered around solving real-world problems, which has shaped my projects and career path.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+<!--
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Header 2
 
@@ -121,3 +123,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
