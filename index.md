@@ -2,17 +2,22 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
-
 # About Me
 
-Hi 👋 I am Saurabh. 23-year-old Software engineer from India.
+Hi 👋 I am Saurabh. 23-year-old Software Developer from India.
 
-I began my coding journey with React and JavaScript and have since immersed myself in a range of technologies and frameworks. 
+I began my coding journey with JavaScript and Python and have since immersed myself in a range of technologies and frameworks.
+
 My approach to development is centered around solving real-world problems, which has shaped my projects and career path.
 
+## Open-Source Contribution
+
+
+(WIP)[Link to another page](./another-page.html).
 
 <!--
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
