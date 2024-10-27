@@ -1,9 +1,9 @@
 ---
 layout: default
-front_matter_title: "Saurabh Kumar Singh"
+title: "Saurabh Kumar Singh"
 ---
 
-# About Me
+## About Me
 
 Hi 👋 I am Saurabh. 23-year-old Software Developer from India.
 
